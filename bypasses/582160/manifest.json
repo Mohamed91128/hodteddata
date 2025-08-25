@@ -1,0 +1,32 @@
+{
+  "root": {
+    "Installer_Resources": {
+      "UPlayInstaller": "Application"
+    },
+    "steamscripts": {
+      "install_582160.vdf": "VDF File"
+    },
+    "7za": "Application",
+    "ACOrigins": "Application",
+    "amd_ags_x64.dll": "Application Extension",
+    "bink2w64.dll": "Application Extension",
+    "CODEX": "Configuration settings",
+    "d3dcompiler_47.dll": "Application Extension",
+    "DataPC_WhiteRoom_dx11.forge": "FORGE File",
+    "DataPC_WhiteRoom_dx11_patch_01.forge": "FORGE File",
+    "DataPC_WhiteRoom_gi.forge": "FORGE File",
+    "dbdata.dll": "Application Extension",
+    "dbghelp64.dll": "Application Extension",
+    "DefaultBindings.map": "MAP File",
+    "GFSDK_Aftermath_Lib.x64.dll": "Application Extension",
+    "gpudatabase_win64.dll": "Application Extension",
+    "localization.lang": "LANG File",
+    "manifest": "JSON File",
+    "steam_api64.dll": "Application Extension",
+    "streaminginstall": "Configuration settings",
+    "Tobii.GameIntegration.dll": "Application Extension",
+    "UbisoftConnectInstaller": "Application",
+    "uplay_r1_loader64": "CDX File",
+    "uplay_r1_loader64.dll": "Application Extension"
+  }
+}
