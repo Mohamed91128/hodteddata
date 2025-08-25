@@ -1,0 +1,11 @@
+{
+  "files": [
+    "FC3.dll",
+    "FC3_d3d11.dll",
+    "manifest.json",
+    "orbit_api.ini",
+    "reloaded.nfo",
+    "ubiorbitapi_r2_loader.dll",
+    "uplay_r1_loader.dll"
+  ]
+}
