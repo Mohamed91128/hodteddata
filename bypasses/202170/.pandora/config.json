@@ -1,0 +1,10 @@
+{
+  "app_id"                        : 202170,
+  "client_interface"              : "Client012",
+  "user_interface"                : "User016",
+  "utils_interface"               : "Utils005",
+  "friends_interface"             : "Friends011",
+  "userstats_interface"           : "UserStats010",
+  "remotestorage_interface"       : "RemoteStorage005",
+  "apps_interface"                : "Apps004"
+}
