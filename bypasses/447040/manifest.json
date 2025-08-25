@@ -1,0 +1,10 @@
+{
+  "files": [
+    "bin/"
+  ],
+  "bin": [
+    "CPY.ini",
+    "dbdata.dll",
+    "uplay_r1_loader64.dll"
+  ]
+}
