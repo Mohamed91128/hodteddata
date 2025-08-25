@@ -1,5 +1,5 @@
 {
-  "root": [
+  "files": [
     "Installer_Resources",
     "steamscripts",
     "7za",
@@ -17,6 +17,7 @@
     "GFSDK_Aftermath_Lib.x64.dll",
     "gpudatabase_win64.dll",
     "localization.lang",
+    "manifest",
     "steam_api64.dll",
     "streaminginstall",
     "Tobii.GameIntegration.dll",
