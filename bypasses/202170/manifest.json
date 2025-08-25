@@ -1,0 +1,19 @@
+{
+  "files": [
+    ".pandora/",
+    "HKShip.exe",
+    "Made By Ahmed.txt",
+    "manifest.json",
+    "msvcp100.dll",
+    "msvcr100.dll",
+    "pandora_api.dll",
+    "pandoraclient.dll",
+    "steam_api.dll",
+    "V.dll"
+  ],
+  ".pandora": [
+    "config.json",
+    "dummys.bson",
+    "local"
+  ]
+}
