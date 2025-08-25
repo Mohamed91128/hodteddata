@@ -1,6 +1,6 @@
 {
   "files": [
-    "bin/"
+    "bin"
   ],
   "bin": [
     "CPY.ini",
