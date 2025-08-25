@@ -1,0 +1,18 @@
+{
+  "files": [
+    "bin/",
+    "ali213.bin",
+    "FarCry4.dll"
+  ],
+  "bin": [
+    "ALI213.ini",
+    "FarCry4.exe",
+    "FC64.dll",
+    "IGE.WPF.Core_r64.dll",
+    "IGE.WPF.Core64.dll",
+    "IGE_WPF64.exe",
+    "IGE_WPF64.exe.config",
+    "uplay_r1_loader64.dll"
+  ]
+}
+
