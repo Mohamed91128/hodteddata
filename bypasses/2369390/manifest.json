@@ -1,0 +1,13 @@
+{
+  "bin": [
+    "amd_ags_x64.dll",
+    "amd_ags_x64.dllORG",
+    "dbdata.dll",
+    "EMP.dll",
+    "FarCry6",
+    "FC_m64d3d12.dll",
+    "tobii_gameintegration_x64.dll",
+    "upc_r2_loader64.dll",
+    "uplay_r2"
+  ]
+}
