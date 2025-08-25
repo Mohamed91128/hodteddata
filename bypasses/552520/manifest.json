@@ -1,0 +1,12 @@
+{
+  "bin": {
+    "EasyAntiCheat": {
+      "EasyAntiCheat_x64.dll": "Application Extension"
+    },
+    "COD﻿EX": "Configuration settings",
+    "FarCry5": "Application",
+    "FC_m64.dll": "Application Extension",
+    "uplay_r1_loader64": "CDX File",
+    "uplay_r1_loader64.dll": "Application Extension"
+  }
+}
