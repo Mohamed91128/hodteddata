@@ -1,7 +1,7 @@
 {
   "files": [
-    "Installer_Resources",
-    "steamscripts",
+    "Installer_Resources/",
+    "steamscripts/",
     "7za",
     "ACOrigins",
     "amd_ags_x64.dll",
