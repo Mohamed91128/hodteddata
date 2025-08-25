@@ -1,0 +1,93 @@
+"InstallScript"
+{
+	"Registry"
+	{
+		"HKEY_CURRENT_USER\\SOFTWARE\\Ubisoft\\Assassins Creed Origins"
+		{
+			"string"
+			{
+				"english"
+				{
+					"language"		"en-US"
+				}
+				"french"
+				{
+					"language"		"fr-FR"
+				}
+				"italian"
+				{
+					"language"		"it-IT"
+				}
+				"dutch"
+				{
+					"language"		"nl-NL"
+				}
+				"german"
+				{
+					"language"		"de-DE"
+				}
+				"russian"
+				{
+					"language"		"ru-RU"
+				}
+				"spanish"
+				{
+					"language"		"es-ES"
+				}
+				"Portuguese-Brazilian"
+				{
+					"language"		"pt-BR"
+				}
+				"japanese"
+				{
+					"language"		"ja-JP"
+				}
+				"Chinese-Simplified"
+				{
+					"language"		"zh-CN"
+				}
+				"Chinese-Traditional"
+				{
+					"language"		"zh-TW"
+				}
+				"polish"
+				{
+					"language"		"pl-PL"
+				}
+				"czech"
+				{
+					"language"		"cs-CZ"
+				}
+				"korean"
+				{
+					"language"		"ko-KO"
+				}
+				"arabic"
+				{
+					"language"		"ar-AA"
+				}
+			}
+		}
+	}
+	"Run Process"
+	{
+		"UplayLauncher"
+		{
+			"process 1"		"%INSTALLDIR%\\UbisoftConnectInstaller.exe"
+			"command 1"		"/S"
+		}
+		"Visual C++ Redistributable"
+		{
+			"process 1"		"%INSTALLDIR%\\Support\\Software\\VCRedist\\vc_redist.x64.exe"
+			"command 1"		"/q"
+		}
+	}
+	"Firewall"
+	{
+		"Assassins Creed Origins"		"%INSTALLDIR%\\ACOrigins.exe"
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"191c85528060dd8cd64cf8e1a95cd376a51f3e4f03254903eb5f696200ad5afd9fa91cc774b7821432e4bbc932aab982c775cdb007357567e8659a805fc1e2ae534ea7f9bfc591238f79d382a12b6b4bed5c2c52516a445c3c9fa37b383609cd12a1a0d167b4efb6d952004ba8cf9dc176bfcf8f1893820c618bf1c9c1e9448c"
+}
