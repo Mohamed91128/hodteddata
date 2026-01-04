@@ -1,3 +1,3 @@
 {
-  "verify": "https://work.ink/_api/v2/token/isValid/{TOKEN}"
+  "verify": "https://testtt-gzh8.onrender.com/verify"
 }
